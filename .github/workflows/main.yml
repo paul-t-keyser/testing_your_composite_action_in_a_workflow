@@ -1,4 +1,4 @@
-on: [push]
+on: [push] # if only the API allowed saying "on change to dependent action(s)"!
 
 jobs:
   hello_world_job:
